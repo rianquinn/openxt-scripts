@@ -47,3 +47,4 @@ xenclient-oe
 xenclient-oe-extra
 xenfb2
 xsm-policy
+vusb-daemon
